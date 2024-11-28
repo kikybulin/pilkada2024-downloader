@@ -2,6 +2,7 @@
 
 Proyek ini adalah alat otomatisasi untuk mengunduh data dan gambar dari TPS (Tempat Pemungutan Suara) di Pilkada 2024. Pengguna dapat memilih provinsi, kota, kecamatan, kelurahan, hingga TPS tertentu untuk mengunduh gambar terkait. Program ini mendukung multithreading untuk mempercepat proses pengunduhan.
 
+# Cara Penggunaan
 
 ```bash
   python main.py
