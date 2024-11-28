@@ -24,5 +24,5 @@ Setiap unduhan akan diorganisir dalam folder sebagai berikut:
 ![Screenshot_1](https://github.com/user-attachments/assets/1b7f9b79-17e5-49a5-89fc-5052664bac07)
 ![Screenshot_3](https://github.com/user-attachments/assets/38f5bb75-adaa-42d9-b382-623e974de54c)
 ![Screenshot_2](https://github.com/user-attachments/assets/3f71f5c6-20b4-4034-a405-7eb958e13143)
-![Screenshot_5](https://github.com/user-attachments/assets/c1b9ec6c-19ab-41fd-a34f-a924090e25b0)
 ![Screenshot_4](https://github.com/user-attachments/assets/48d33777-ba2a-4bd3-8c72-a960639a7b0d)
+![Screenshot_5](https://github.com/user-attachments/assets/c1b9ec6c-19ab-41fd-a34f-a924090e25b0)
