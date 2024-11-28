@@ -10,15 +10,16 @@ Proyek ini adalah alat otomatisasi untuk mengunduh data dan gambar dari TPS (Tem
 # Struktur Folder
 Setiap unduhan akan diorganisir dalam folder sebagai berikut:
 
-```<Provinsi>
- ├── <Kota>
- │    ├── <Kecamatan>
- │    │    ├── <Kelurahan>
- │    │    │    ├── <TPS 1>
- │    │    │    │    ├── gambar1.jpg
- │    │    │    │    ├── gambar2.jpg
- │    │    │    ├── <TPS 2>
- │    │    │    │    ├── gambar1.jpg
+```
+ ├─<Provinsi>
+ │    ├── <Kota>
+ │    │    ├── <Kecamatan>
+ │    │    │    ├── <Kelurahan>
+ │    │    │    │    ├── <TPS 1>
+ │    │    │    │    │    ├── gambar1.jpg
+ │    │    │    │    │    ├── gambar2.jpg
+ │    │    │    │    ├── <TPS 2>
+ │    │    │    │    │    ├── gambar1.jpg
 ```
 
 ![Screenshot_1](https://github.com/user-attachments/assets/1b7f9b79-17e5-49a5-89fc-5052664bac07)
